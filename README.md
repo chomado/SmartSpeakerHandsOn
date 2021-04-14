@@ -50,11 +50,11 @@
 
 サービス/製品名|使用目的|提供元
 ----|----|----
-[Microsoft Translator Text API](https://docs.microsoft.com/ja-jp/azure/cognitive-services/translator/translator-info-overview?WT.mc_id=docs-twitter-machiy)|言語の検出、翻訳|Microsoft
-[Microsoft Speech Services API](https://docs.microsoft.com/ja-jp/azure/cognitive-services/speech-service/?WT.mc_id=docs-twitter-machiy)|テキスト読み上げ (Text to Speech)|Microsoft
-[Microsoft Azure Storage](https://docs.microsoft.com/ja-jp/azure/storage/common/storage-introduction?WT.mc_id=docs-twitter-machiy)|英語の読み上げ音声ファイルの一時保存|Microsoft
-[Microsoft Azure Functions](https://docs.microsoft.com/ja-jp/azure/azure-functions/?WT.mc_id=docs-twitter-machiy)|バックエンド作成（Web サーバー)(サーバーレス)|Microsoft
-[Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/?WT.mc_id=docs-twitter-machiy)|エディタ (for Windows, macOS, Linux)|Microsoft
+[Microsoft Translator Text API](https://docs.microsoft.com/azure/cognitive-services/translator/translator-info-overview?WT.mc_id=dotnet-0000-machiy)|言語の検出、翻訳|Microsoft
+[Microsoft Speech Services API](https://docs.microsoft.com/azure/cognitive-services/speech-service/?WT.mc_id=dotnet-0000-machiy)|テキスト読み上げ (Text to Speech)|Microsoft
+[Microsoft Azure Storage](https://docs.microsoft.com/azure/storage/common/storage-introduction?WT.mc_id=dotnet-0000-machiy)|英語の読み上げ音声ファイルの一時保存|Microsoft
+[Microsoft Azure Functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=dotnet-0000-machiy)|バックエンド作成（Web サーバー)(サーバーレス)|Microsoft
+[Visual Studio Code](https://azure.microsoft.com/products/visual-studio-code/?WT.mc_id=dotnet-0000-machiy)|エディタ (for Windows, macOS, Linux)|Microsoft
 [Dialogflow](https://dialogflow.com/)|Google Home や Google アシスタント用の Action (アプリ) を作るときの対話モデル作成|Google
 [ngrok](https://ngrok.com/)|localhost で動いているサーバーを外部から叩けるようにする（tunnelling）|ngrok
 
